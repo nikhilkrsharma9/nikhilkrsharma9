@@ -1,4 +1,4 @@
-# Hi there, I'm Nikhil Sharma! 👋
+# Hi there, I'm Nikhil kumar Sharma! 👋
 
 I am a passionate software developer with a keen interest in open-source contributions and building innovative solutions. 
 
